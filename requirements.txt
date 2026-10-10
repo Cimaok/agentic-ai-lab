@@ -1,0 +1,14 @@
+# Python packages for Agentic AI Lab.
+#
+# Keep this file empty until a lesson or exercise needs a package.
+# When you need one, add the package name on its own line, for example:
+#
+#     openai
+#
+# Then install it inside a virtual environment:
+#
+#     python -m venv .venv
+#     source .venv/bin/activate
+#     pip install -r requirements.txt
+#
+# The .venv folder is already listed in .gitignore, so it will not be committed.
