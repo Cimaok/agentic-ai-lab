@@ -4,6 +4,14 @@ A hands-on development lab for learning and building Agentic AI systems using Py
 
 This repository is my personal practice environment. I follow Ed Donner's Agentic AI course and add practical exercises here as I progress. The folders below are a flexible place to keep notes, experiments, and small exercises. They do not replace the instructor's course materials.
 
+## Start here — a two-minute project demo
+
+[**Business opportunity prioritizer →**](03-ai-agents/01-business-opportunity.ipynb)
+
+An operations manager has several automation ideas. This runnable notebook turns a synthetic backlog into a ranked pilot recommendation, with transparent calculations, saved example output, and executable checks. **Review:** problem → inputs → ranking → recommendation → verification. Open it on GitHub to see the result; run instructions are included.
+
+**Scope:** a Python rule-based baseline for future agent experiments, with no API keys or third-party runtime packages. The sample recommends meeting summaries at an estimated 4 hours saved per week; this is illustrative, not measured business impact.
+
 ## About This Repository
 
 This repository documents my practical learning journey in Agentic Artificial Intelligence.
@@ -63,7 +71,7 @@ When a lesson needs extra Python packages, add them to `requirements.txt` and in
 
 ## Current Status
 
-Learning, experimenting, and building. The folder structure is in place. Exercises will be added as I work through the course.
+Learning, experimenting, and building. The business opportunity prioritizer is a runnable baseline demonstration. Further exercises and agent integrations will be added as I work through the course.
 
 ## About Me
 
